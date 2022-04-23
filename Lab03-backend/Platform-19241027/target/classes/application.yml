@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/lab03
+    username: root
+    password: Hujuncheng1234~~
+  jpa:
+    hibernate:
+      ddl-auto: update
+mybatis:
+  mapper-locations: classpath:Mapper/*.xml
+  type-aliases-package: com.example.Platform19241027.Entity
+server:
+  port: 8090
