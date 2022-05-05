@@ -29,14 +29,14 @@
 
 3. 正确实现的白盒测试用例执行结果截图
 
-   ![截屏2022-04-23 15.42.54](https://cdn.jsdelivr.net/gh/hjc-owo/allImgs/img/202204231543911.png)
+   ![截屏2022-04-23 15.42.54](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204231543911.png)
 
    ```python
    import unittest
-   
+
    from White import Triangle
-   
-   
+
+
    class MyTest(unittest.TestCase):
        # 编写测试用例，记得要以t开头，例：test
        def testTriangle(self):
@@ -51,19 +51,19 @@
            self.assertEqual(Triangle.triangle(3, 4, 4), "isosceles triangle!")
            self.assertEqual(Triangle.triangle(3, 4, 3), "isosceles triangle!")
            self.assertEqual(Triangle.triangle(3, 4, 5), "regular triangle!")
-   
+
        pass
-   
-   
+
+
    # 运行测试
    if __name__ == '__main__':
        unittest.main()
-   
+
    ```
 
 4. 带缺陷实现的白盒测试用例执行结果截图
 
-   ![截屏2022-04-23 15.42.42](https://cdn.jsdelivr.net/gh/hjc-owo/allImgs/img/202204231543095.png)
+   ![截屏2022-04-23 15.42.42](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204231543095.png)
 
    ```python
    def triangle(a, b, c):
@@ -80,7 +80,5 @@
                return "not a triangle!"
        else:
            return "not a triangle!"
-   
-   ```
 
-   
+   ```
