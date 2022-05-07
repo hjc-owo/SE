@@ -29,7 +29,7 @@
 
 3. 正确实现的白盒测试用例执行结果截图
 
-   ![截屏2022-04-23 15.42.54](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204231543911.png)
+   ![截屏2022-04-23 15.42.54](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204231543911.png)
 
    ```python
    import unittest
@@ -63,7 +63,7 @@
 
 4. 带缺陷实现的白盒测试用例执行结果截图
 
-   ![截屏2022-04-23 15.42.42](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204231543095.png)
+   ![截屏2022-04-23 15.42.42](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204231543095.png)
 
    ```python
    def triangle(a, b, c):

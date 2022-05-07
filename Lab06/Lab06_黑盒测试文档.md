@@ -70,9 +70,9 @@
 
 3. 测试结果及说明（注释）
 
-   ![截屏2022-04-23 00.12.57](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204230013663.png)
+   ![截屏2022-04-23 00.12.57](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204230013663.png)
 
-   <img src="https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io/img/202204232105271.png" alt="截屏2022-04-23 21.04.42" style="zoom:67%;" />
+   <img src="https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204232105271.png" alt="截屏2022-04-23 21.04.42" style="zoom:67%;" />
 
    ```python
    import unittest
