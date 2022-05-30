@@ -18,7 +18,7 @@
 
 4. 插入上述数据的数据库内容：
 
-   ![截屏2022-03-31 21.37.08](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204231553111.png)
+   ![截屏2022-03-31 21.37.08](https://raw.githubusercontent.com/hjc-owo/hjc-owo.github.io/img/202204231553111.png)
 
 5. 任务 1 完成过程：
 

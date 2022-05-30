@@ -56,4 +56,4 @@ ldm:
 
 pdm:
 
-![PowerDesigner - [CDM lab04, Diagram_1 - D__lab04_lab04.cdm] 2022_4_9 20_30_25](https://cdn.jsdelivr.net/gh/hjc-owo/hjc-owo.github.io@img/202204231555047.png)
+![PowerDesigner - [CDM lab04, Diagram_1 - D__lab04_lab04.cdm] 2022_4_9 20_30_25](https://raw.githubusercontent.com/hjc-owo/hjc-owo.github.io/img/202204231555047.png)
